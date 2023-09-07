@@ -18,7 +18,7 @@ Let’s get started! Here's a compilation of the utilities and products that mak
 
 - [RPC Noise Based Auth](https://github.com/slashtags/rpc-request) - Supports session and sessionless authentication.
 - [SlashAuth](https://github.com/slashtags/slashauth) - Auth client for RPC authentication.
-- [SlashPay](https://github.com/slashtags/slashpay) - Payments over the Slashtags platform.
+- [SlashPay](https://github.com/slashtags/slashpay-solo) - Payments over the Slashtags platform.
 
 ---
 
